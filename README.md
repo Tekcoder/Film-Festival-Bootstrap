@@ -12,11 +12,11 @@ My steps in creating this intuitive website using a Bootstrap 4 are:
 This is the live version of the website: <a href="">Watch it outside<a>
   
 # Website content
-
-Nine films that will be shown.
-A Pre-registration page with a functional contact form for those who show interest first
-An announcement page for latest news and updates regarding the film
-
+<ul>
+    <li>Nine films that will be shown.</li>
+    <li>A Pre-registration page with a functional contact form for those who show interest first</li>
+    <li>An announcement page for latest news and updates regarding the film</li>
+</ul>
 Twitter: <a href="https://twitter.com/Abumaryam99">Twitter</a>
 
 LinkedIn: <a href="https://www.linkedin.com/in/abdurroheem-olayemi-baa980b1/">LinkedIn</a>
